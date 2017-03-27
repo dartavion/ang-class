@@ -1,0 +1,11 @@
+{
+  "passengers": [
+    {
+      "id": 1,
+      "fullName": "asdfasd",
+      "checkedIn": true,
+      "checkedInDate": 1490471118411,
+      "children": null
+    }
+  ]
+}
