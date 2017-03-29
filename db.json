@@ -1,23 +1,18 @@
 {
   "passengers": [
     {
+      "fullName": "Monkey",
       "id": 1,
-      "fullName": "Woah, Tommy",
       "checkedIn": true,
-      "checkedInDate": 1490471118411,
-      "children": null
+      "baggage": "hand-only",
+      "checkedInDate": 1490471118411
     },
     {
       "id": 2,
       "fullName": "Monday, Betty",
       "checkedIn": true,
       "checkedInDate": 1490471096107,
-      "children": [
-        {
-          "name": "ted",
-          "age": 12
-        }
-      ]
+      "baggage": ""
     }
   ]
 }
